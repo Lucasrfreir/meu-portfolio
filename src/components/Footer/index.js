@@ -5,7 +5,7 @@ const Footer = () => {
   return(
     <StyledFooter>
       <p>Feito com <span className='tech'>React</span>, <span className='tech'>Styled components</span> e 💜</p>
-      <p>©Erickson Siqueira</p>
+      <p>©Lucas Freire</p>
     </StyledFooter>
   );
 };

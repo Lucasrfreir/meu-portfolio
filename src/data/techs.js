@@ -1,6 +1,8 @@
 import * as FaIcons from 'react-icons/fa';
 import * as SiIcons from 'react-icons/si';
-import * as GrIcons from 'react-icons/gr';
+import { SiJava } from 'react-icons/si';
+import { FaProjectDiagram } from 'react-icons/fa';
+
 import { SiNextdotjs } from 'react-icons/si';
 
 const data = [
@@ -24,11 +26,7 @@ const data = [
     Icon: SiIcons.SiJavascript,
     doc: 'https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript',
   },
-  {
-    text: 'Jest',
-    Icon: SiIcons.SiJest,
-    doc: 'https://jestjs.io/pt-BR/',
-  },
+
   {
     text: 'CSS3',
     Icon: FaIcons.FaCss3Alt,
@@ -49,16 +47,7 @@ const data = [
     Icon: FaIcons.FaGithub,
     doc: 'https://docs.github.com/en/get-started',
   },
-  {
-    text: 'Styled components',
-    Icon: SiIcons.SiStyledcomponents,
-    doc: 'https://styled-components.com/docs',
-  },
-  {
-    text: 'Tailwind',
-    Icon: SiIcons.SiTailwindcss,
-    doc: 'https://tailwindcss.com/docs/installation',
-  },
+  
   {
     text: 'Node.js',
     Icon: FaIcons.FaNodeJs,
@@ -70,30 +59,21 @@ const data = [
     doc: 'https://testing-library.com/docs/react-testing-library/intro/',
   },
   {
-    text: 'Express',
-    Icon: SiIcons.SiExpress,
-    doc: 'https://expressjs.com/pt-br/',
+    text: 'Java',
+    Icon: SiIcons.SiJava,
+    doc: 'https://docs.oracle.com/javase/8/docs/',
+  },  
+  {
+    text: 'UML',
+    Icon: FaProjectDiagram,
+    doc: 'https://uml-diagrams.org/',
   },
   {
-    text: 'Redux',
-    Icon: SiIcons.SiRedux,
-    doc: 'https://redux.js.org/',
+    text: 'POO',
+    Icon: SiJava,
+    doc: 'https://www.oracle.com/java/technologies/learning-path.html',
   },
-  {
-    text: 'MySql',
-    Icon: GrIcons.GrMysql,
-    doc: 'https://dev.mysql.com/doc/',
-  },
-  {
-    text: 'Sequelize',
-    Icon: SiIcons.SiSequelize,
-    doc: 'https://sequelize.org/',
-  },
-  {
-    text: 'Docker',
-    Icon: GrIcons.GrDocker,
-    doc: 'https://docs.docker.com/',
-  },
+
 ];
 
 export default data;

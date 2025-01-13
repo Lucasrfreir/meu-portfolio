@@ -10,18 +10,18 @@ const About = () => {
       <GradientHead text={'Sobre'} classes={'about-heading'} />
       <section className={'about-txt'}>
         <p>
-          Tenho 25 anos, sou filho da Ana uma cabeleireira muito batalhadora,
-          sou nascido e criado em Nova Iguaçu baixada fluminense do Rio de
-          Janeiro. Sou uma pessoa muito caseira, escuto todo tipo de musica, mas
-          gosto principalmente de rock. Adoro jogar, lutar boxe, assistir filmes
-          e séries (principalmente fantasia medieval), ler livros e claro,
-          programar.
+          Tenho 25 anos e nasci em Águas Lindas de Goiás, GO. Quando completei
+          meus 17 anos me mudei e passei por várias cidades e estados ate meus 
+          21 anos, quando novamente voltei para Águas lindas. Gosto de jogar 
+          vídeo game, assistir series com minha esposa, e estudar (principalmente 
+          programação).
         </p>
         <p>
-          Sou um desenvolvedor web full stack com experiencia profissional em
-          front-end. Tenho conhecimento sólido na criação de sites responsivos,
-          rápidos e bem ranqueados. Minha abordagem se baseia em métricas como o
-          Core Web Vitals e em códigos limpos, legíveis e testados.
+          Sou estudante de análise e desenvolvimento de sistemas. atualmente 
+          estou em meu 5º e último semestre na faculdade anhanguera. também 
+          tenho cursos extras como desenvolvimento java com orientação a objetos, 
+          estruturas de dados com python, React do Zero a Maestria. entre algumas 
+          outras.
         </p>
         <p>
           Além disso, trago um toque de bom humor, colaboração e gosto por

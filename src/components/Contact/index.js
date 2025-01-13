@@ -14,9 +14,9 @@ const Contact = () => {
     message: '',
   }
 
-  const SERVICE_ID = process.env.REACT_APP_SERVICE_ID || 'service_wme5ndy' ;
-  const TEMPLATE_ID = process.env.REACT_APP_TEMPLATE_ID || 'template_9b9117h';
-  const USER_ID = process.env.REACT_APP_USER_ID || 'zmhHZ8hEk4X1dHrHJ';
+  const SERVICE_ID = process.env.REACT_APP_SERVICE_ID || 'service_6py7j6r' ;
+  const TEMPLATE_ID = process.env.REACT_APP_TEMPLATE_ID || 'template_ya2rxsl';
+  const USER_ID = process.env.REACT_APP_USER_ID || '0vEi2Q2GM2LxkiL8y';
 
   const [toSend, setToSend] = useState(TO_SEND_INITIAL_STATE);
 

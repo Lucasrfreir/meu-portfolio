@@ -35,7 +35,7 @@ const Header = () => {
             </nav>
             <section className="social-media">
               <a 
-                href="https://github.com/EricksonSiqueira"
+                href="https://github.com/Lucasrfreir"
                 target="_blank"
                 rel="noreferrer"
                 data-testid="header-github-link"
@@ -43,7 +43,7 @@ const Header = () => {
                 <img src={githubIcon} alt="icone do github" />
               </a>
               <a 
-                href="https://www.linkedin.com/in/ericksonsiqueira/"
+                href="https://www.linkedin.com/in/lucas-freire-a91648168/"
                 target="_blank"
                 rel="noreferrer"
                 data-testid="header-linkedin-link"
@@ -79,7 +79,7 @@ const Header = () => {
             </section>
             <section className='nav-social'>
                               <a
-                href="https://github.com/EricksonSiqueira"
+                href="https://github.com/Lucasrfreir"
                 target='_blank'
                 rel='noreferrer'
                 data-testid="header-github-link"
@@ -87,7 +87,7 @@ const Header = () => {
                 <img src={githubIcon} alt="icone do github" />
               </a>
               <a
-                href="https://www.linkedin.com/in/ericksonsiqueira/"
+                href="https://www.linkedin.com/in/lucas-freire-a91648168/"
                 target='_blank'
                 rel='noreferrer'
                 data-testid="header-linkedin-link"

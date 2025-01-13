@@ -10,18 +10,18 @@ const Hero = () => {
 
   return (
     <HeroStyled className='section-spacing'>
-      <img src={isPageWide ? heroImgWide : heroImg } alt="foto do erickson sorrindo com fundo neon circular" />
+      <img src={isPageWide ? heroImgWide : heroImg } alt="foto do Lucas sorrindo sem fundo" />
       <article>
         <section>
           <p className="hero-txt">Olá mundo, eu sou</p>
           <GradientText 
-            text={'Erickson Siqueira'} 
+            text={'Lucas Freire'} 
             classes='hero-name'
           />
-          <p className="hero-txt">Desenvolvedor web front-end</p>
+          <p className="hero-txt">Desenvolvedor</p>
         </section>
         <a
-          href="https://www.linkedin.com/in/ericksonsiqueira/"
+          href="https://www.linkedin.com/in/lucas-freire-a91648168/"
           target="_blank"
           rel="noreferrer"
           data-testid="hero-linkedin-link"
