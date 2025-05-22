@@ -4,18 +4,18 @@ import postogasolina from '../img/posto-gasolina.png';
 
 const projects = [
   {
+    image: perolascultImg,
+    technologies: ['HTML 5',  'CSS 3'],
+    githubLink: 'https://github.com/Lucasrfreir',
+    deployLink: 'https://perolas-cult.vercel.app/',
+    description: `Um site site inspirado no estilo da Netflix, focado em filmes cult, permitindo aos usuários explorar e assistir a filmes de diferentes gêneros.`,
+  },
+  {
     image: postogasolina,
     technologies: ['java', 'Orientação a objetos'],
     githubLink: 'https://github.com/Lucasrfreir',
     deployLink: 'https://github.com/Lucasrfreir/Posto-de-gasolina',
     description: `Uma aplicação em programação orientada a objetos, utilizando conceitos como enumerações, streams, e manipulação de listas. `,
-  },
-  {
-    image: perolascultImg,
-    technologies: ['HTML 5',  'CSS 3'],
-    githubLink: 'https://github.com/Lucasrfreir',
-    deployLink: 'O site ainda não esta no ar',
-    description: `Um site site inspirado no estilo da Netflix, focado em filmes cult, permitindo aos usuários explorar e assistir a filmes de diferentes gêneros.`,
   },
   {
     image: portfolioImg,
